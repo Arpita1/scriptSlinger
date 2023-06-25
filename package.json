@@ -1,0 +1,23 @@
+{
+  "name": "scriptslinger",
+  "version": "1.0.0",
+  "description": "playing around with automation tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arpita1/scriptSlinger.git"
+  },
+  "author": "Arpita1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arpita1/scriptSlinger/issues"
+  },
+  "homepage": "https://github.com/Arpita1/scriptSlinger#readme",
+  "dependencies": {
+    "@playwright/test": "^1.35.1",
+    "prettier": "^2.8.8"
+  }
+}
